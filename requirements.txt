@@ -1,0 +1,4 @@
+# Python requirements
+PyQt5
+flask
+numpy
