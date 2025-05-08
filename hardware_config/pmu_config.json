@@ -1,0 +1,5 @@
+{
+    "voltage_range": [0, 3.3, 5, 12],
+    "current_limit": [0.1, 0.5, 1.0, 2.0],
+    "measurement_points": ["VIN", "VDD", "VCC", "AVDD"]
+} 

@@ -1,0 +1,5 @@
+{
+    "channels": [1, 2, 3, 4],
+    "switch_time": [10, 20, 50, 100],
+    "relay_type": ["SPST", "SPDT", "DPST", "DPDT"]
+} 
